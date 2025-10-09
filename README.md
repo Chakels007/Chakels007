@@ -119,12 +119,8 @@
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 
+## Support
 <!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
 ![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/chakels"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/chakels" /></a><a href="https://ko-fi.com/https://ko-fi.com/chakels"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/chakels" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chakels007&show_icons=true&locale=en&layout=compact" alt="chakels007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chakels007&show_icons=true&locale=en" alt="chakels007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chakels007&" alt="chakels007" /></p> -->
