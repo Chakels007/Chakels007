@@ -102,7 +102,7 @@
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Chakels007&show_icons=true&theme=gruvbox)
+![Chakels' GitHub stats](https://github-readme-stats.vercel.app/api?username=Chakels007&show_icons=true&theme=gruvbox)
 
 ---
 
@@ -118,9 +118,21 @@
 <a href="https://www.instagram.com/iamchakels/" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
+<a href="https://www.x.com/iamchakels/" target="blank">
+  <img src="https://skillicons.dev/icons?i=x" alt="X/Twitter" />
+</a>
 
 ## Support
 <!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
 ![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/chakels"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/chakels" /></a><a href="https://ko-fi.com/https://ko-fi.com/chakels"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/chakels" /></a></p><br><br>
+<p>
+     <a href="https://buymeacoffee.com/chakels"> 
+          <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/chakels" />
+     </a>     
+     <a href="https://ko-fi.com/chakels"> 
+          <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/chakels" />
+     </a>
+</p>
+<br>
+<br>
 
