@@ -80,8 +80,9 @@
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
+- [**NextWork Portfolio (My Side Projects)**](https://learn.nextwork.org/serene_maroon_shy_turkey/portfolio)
 - [**Contact**](mailto:sriramchakels007@gmail.com)
+- [**Portfolio (General)**](https://www.gowthamsriram.com/)
 
 <a href="https://www.linkedin.com/in/gowtham-sriram/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
