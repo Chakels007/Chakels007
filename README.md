@@ -55,11 +55,11 @@
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Secure AWS VPC</b><br/>
-      <sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
+      <b>Mini Spotify Application with Cursor AI</b><br/>
+      <sub>Built a music streaming web app leveraging Cursor’s AI-native IDE to streamline feature.</sub><br/>
+      🔗 <a href="https://github.com/Chakels007/NextSound">Repo</a>
       <br/>
-      <sub>Tags: Networking, AWS, Security</sub>
+      <sub>Tags: AI, Automation, Cursor IDE, Music App, Feature Engineering</sub>
     </td>
   </tr>
 </table>
